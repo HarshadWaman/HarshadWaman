@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="1200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwhdncBFFQFUg-4_HQzAmC-xFeNsA4r9fYA&s">
 <h1 align="center">Hi, I'm Harshad Waman</h1>
-<h3 align="center">A programmer from India</h3>
+<h3 align="center"> programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadwaman&label=Profile%20views&color=0e75b6&style=flat" alt="harshadwaman" /> </p>
